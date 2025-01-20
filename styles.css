@@ -12,8 +12,8 @@ body {
     align-items: center;
     text-align: center;
     padding: 20px;
-    width: 100dvw;
-    height: 100dvw;
+    width: 100 auto;
+    height: 100vh;
     font-family: "outfit";
     font-weight: 400;
     font-size: 15px;
